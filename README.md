@@ -20,6 +20,7 @@ Once your Distribution is enabled, copy the Distribution domain name in browsera
 
 What is OAC:  Origin Access Control (OAC) in CloudFront provides an additional layer of security by allowing you to control access to your origin server and restrict it to specific IP addresses or referrers. It helps protect your content and ensure that only authorized users can access it through CloudFront.
 
+![The website looks like this](C:\Users\baran\OneDrive\Desktop\Desktop\Projects for portfolio\cloudfront) 
 Conclusion:
 By following these steps, you have successfully configured Amazon CloudFront to serve your S3 static website while keeping its content private. CloudFront acts as a secure and scalable CDN, ensuring fast and reliable content delivery to users around the world. With this setup, you can confidently host and share your static website without compromising its security.
 
