@@ -3,13 +3,13 @@ Project Description: Making Your S3 Static Website Accessible to Everyone with C
 Introduction:
 When hosting a static website on Amazon S3, you may want to make it accessible to everyone while still keeping the content private and secure. One way to achieve this is by leveraging Amazon CloudFront, a content delivery network (CDN) that provides low-latency and high-speed content delivery.
 
-Step 1: Set Up Your S3 Bucket and Website Hosting under properties
+Step 1: Set Up Your S3 Bucket
 Create an S3 bucket and enable website hosting for it under properties.
 Upload your static website files to the S3 bucket.
 Configure the bucket policy to deny public access to the content.
 
 Step 2: Create a CloudFront Distribution
-Go to the CloudFront console and click "Create Distribution."
+Go to the CloudFront console and click "Create Distribution"
 Click on Origin domain name and select your s3 bucket as the origin domain
 Select the origin access as OAC, it'll prompt you to create control setting
 click on control settings keep everything as default and press create button
