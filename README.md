@@ -23,8 +23,6 @@ What is OAC:  Origin Access Control (OAC) in CloudFront provides an additional l
 Conclusion:
 By following these steps, you have successfully configured Amazon CloudFront to serve your S3 static website while keeping its content private. CloudFront acts as a secure and scalable CDN, ensuring fast and reliable content delivery to users around the world. With this setup, you can confidently host and share your static website without compromising its security.
 
-By combining the power of Amazon S3 and CloudFront, you can create an efficient and secure infrastructure for hosting static websites. Enjoy sharing your content with the world while maintaining control over its accessibility and privacy.
-
 Happy hosting with Amazon S3 and CloudFront!
 
 
