@@ -16,7 +16,7 @@ Step 2: Create a CloudFront Distribution</br>
 5. After OAC has been created, you'll be prompted to update your s3 bucket policy for cloudfront to access contents in s3 bucket</br>
 6. Update the poicy under permissions tab for s3 bucket, navigate back to cloudfront distribution</br>
 7. Keep all the other setting as default and select Default root object as index.html, then click create distribution</br>
-8. Once your Distribution is enabled, copy the Distribution domain name in browserand you'll be able to access your website</br> 
+8. Once your Distribution is enabled, copy cloudfront's Distribution domain name in browser and you'll be able to access your website</br> 
 
 What is OAC:  Origin Access Control (OAC) in CloudFront provides an additional layer of security by allowing you to control access to your origin server and restrict it to specific IP addresses or referrers. It helps protect your content and ensure that only authorized users can access it through CloudFront.
 
