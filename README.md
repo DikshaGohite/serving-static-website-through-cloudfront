@@ -9,7 +9,7 @@ Step 1: Set Up Your S3 Bucket
 3.Configure the bucket policy to deny public access to the content
 
 Step 2: Create a CloudFront Distribution
-1.Go to the CloudFront console and click "Create Distribution"
+1.Go to the CloudFront console and click "Create Distribution"</br>
 2.Click on Origin domain name and select your s3 bucket as the origin domain
 3.Select the origin access as OAC, it'll prompt you to create control setting
 4.click on control settings keep everything as default and press create button
