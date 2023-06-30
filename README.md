@@ -1,5 +1,7 @@
 Project Description: Making Your S3 Static Website Accessible to Everyone with CloudFront while maintaining its privacy.
 
+Services used: S3, CloudFront
+
 Introduction:
 When hosting a static website on Amazon S3, you may want to make it accessible to everyone while still keeping the content private and secure. One way to achieve this is by leveraging Amazon CloudFront, a content delivery network (CDN) that provides low-latency and high-speed content delivery.
 
